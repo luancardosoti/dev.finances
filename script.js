@@ -202,7 +202,3 @@ const App = {
 }
 
 App.init();
-
-
-contas = new int[4]; contas[1] = 1234; contas[2] = 3451; contas[3] = 2341; contas[4] = 3214;
-console.log(contas)
